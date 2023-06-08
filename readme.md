@@ -1,7 +1,7 @@
 DHSI critical making projects!! 
 
 1. [figure drawing](https://melsprite.github.io/DHSI/IMG_4307.jpg)
-2. grids & gestures
+2. [grids & gestures](https://melsprite.github.io/DHSI/Fx9o8UHacAAIEWl.jpeg)
 3. [Twine mapping](https://melsprite.github.io/DHSI/IMG_4250.jpg)
 4. [Twine]( 
 5. [Cut-up poetry](https://melsprite.github.io/DHSI/IMG_4308.jpg)
